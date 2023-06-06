@@ -1,0 +1,12 @@
+C:\Users\wesll\Documents\GitHub\API-Revit\CopyGroup\CopyGroup\bin\Debug\net6.0\CopyGroup.deps.json
+C:\Users\wesll\Documents\GitHub\API-Revit\CopyGroup\CopyGroup\bin\Debug\net6.0\CopyGroup.dll
+C:\Users\wesll\Documents\GitHub\API-Revit\CopyGroup\CopyGroup\bin\Debug\net6.0\CopyGroup.pdb
+C:\Users\wesll\Documents\GitHub\API-Revit\CopyGroup\CopyGroup\obj\Debug\net6.0\CopyGroup.csproj.AssemblyReference.cache
+C:\Users\wesll\Documents\GitHub\API-Revit\CopyGroup\CopyGroup\obj\Debug\net6.0\CopyGroup.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wesll\Documents\GitHub\API-Revit\CopyGroup\CopyGroup\obj\Debug\net6.0\CopyGroup.AssemblyInfoInputs.cache
+C:\Users\wesll\Documents\GitHub\API-Revit\CopyGroup\CopyGroup\obj\Debug\net6.0\CopyGroup.AssemblyInfo.cs
+C:\Users\wesll\Documents\GitHub\API-Revit\CopyGroup\CopyGroup\obj\Debug\net6.0\CopyGroup.csproj.CoreCompileInputs.cache
+C:\Users\wesll\Documents\GitHub\API-Revit\CopyGroup\CopyGroup\obj\Debug\net6.0\CopyGroup.dll
+C:\Users\wesll\Documents\GitHub\API-Revit\CopyGroup\CopyGroup\obj\Debug\net6.0\refint\CopyGroup.dll
+C:\Users\wesll\Documents\GitHub\API-Revit\CopyGroup\CopyGroup\obj\Debug\net6.0\CopyGroup.pdb
+C:\Users\wesll\Documents\GitHub\API-Revit\CopyGroup\CopyGroup\obj\Debug\net6.0\ref\CopyGroup.dll
